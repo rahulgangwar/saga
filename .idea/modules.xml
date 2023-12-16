@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OrdersService-main/OrdersService.iml" filepath="$PROJECT_DIR$/OrdersService-main/OrdersService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ProductsService-main/ProductsService.iml" filepath="$PROJECT_DIR$/ProductsService-main/ProductsService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/estore-users-service-main/UsersService.iml" filepath="$PROJECT_DIR$/estore-users-service-main/UsersService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/core-main/core.iml" filepath="$PROJECT_DIR$/core-main/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/ApiGateway/ApiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiscoveryServer/DiscoveryServer.iml" filepath="$PROJECT_DIR$/DiscoveryServer/DiscoveryServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdersService/OrdersService.iml" filepath="$PROJECT_DIR$/OrdersService/OrdersService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductsService/ProductsService.iml" filepath="$PROJECT_DIR$/ProductsService/ProductsService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsersService/UsersService.iml" filepath="$PROJECT_DIR$/UsersService/UsersService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/saga.iml" filepath="$PROJECT_DIR$/.idea/saga.iml" />
     </modules>
   </component>

@@ -1,10 +1,9 @@
 package com.appsdeveloperblog.estore.OrdersService.command.rest;
 
-import lombok.Data;
-
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotBlank;
+import lombok.Data;
 
 @Data
 public class OrderCreateRest {

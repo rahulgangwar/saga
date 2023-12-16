@@ -9,6 +9,8 @@ import com.appsdeveloperblog.estore.OrdersService.command.commands.CreateOrderCo
 import com.appsdeveloperblog.estore.OrdersService.core.model.OrderStatus;
 import com.appsdeveloperblog.estore.OrdersService.core.model.OrderSummary;
 import com.appsdeveloperblog.estore.OrdersService.query.FindOrderQuery;
+import java.util.UUID;
+import javax.validation.Valid;
 import org.axonframework.commandhandling.gateway.CommandGateway;
 import org.axonframework.messaging.responsetypes.ResponseTypes;
 import org.axonframework.queryhandling.QueryGateway;
@@ -18,9 +20,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import javax.validation.Valid;
-import java.util.UUID;
 
 @RestController
 @RequestMapping("/orders")

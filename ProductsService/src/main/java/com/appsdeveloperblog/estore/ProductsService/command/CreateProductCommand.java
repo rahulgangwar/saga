@@ -1,10 +1,9 @@
 package com.appsdeveloperblog.estore.ProductsService.command;
 
+import java.math.BigDecimal;
 import lombok.Builder;
 import lombok.Data;
 import org.axonframework.modelling.command.TargetAggregateIdentifier;
-
-import java.math.BigDecimal;
 
 @Builder
 @Data

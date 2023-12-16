@@ -3,14 +3,13 @@ package com.appsdeveloperblog.estore.ProductsService.command.interceptors;
 import com.appsdeveloperblog.estore.ProductsService.command.CreateProductCommand;
 import com.appsdeveloperblog.estore.ProductsService.core.data.ProductLookupEntity;
 import com.appsdeveloperblog.estore.ProductsService.core.data.ProductLookupRepository;
+import java.util.List;
+import java.util.function.BiFunction;
 import org.axonframework.commandhandling.CommandMessage;
 import org.axonframework.messaging.MessageDispatchInterceptor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
-
-import java.util.List;
-import java.util.function.BiFunction;
 
 @Component
 public class CreateProductCommandInterceptor

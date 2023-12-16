@@ -3,14 +3,16 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/core-main/pom.xml" />
-        <option value="$PROJECT_DIR$/OrdersService-main/pom.xml" />
-        <option value="$PROJECT_DIR$/ProductsService-main/pom.xml" />
-        <option value="$PROJECT_DIR$/estore-users-service-main/pom.xml" />
+        <option value="$PROJECT_DIR$/core/pom.xml" />
+        <option value="$PROJECT_DIR$/UsersService/pom.xml" />
+        <option value="$PROJECT_DIR$/OrdersService/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductsService/pom.xml" />
+        <option value="$PROJECT_DIR$/DiscoveryServer/pom.xml" />
+        <option value="$PROJECT_DIR$/ApiGateway/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
   <component name="ProjectType">
     <option name="id" value="jpab" />
   </component>

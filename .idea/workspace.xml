@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d53a24f-8ba9-45c9-a476-aa3a1eb6cae5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_59_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_59_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_59_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_59_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_59_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_core_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_http_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_test_3_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_server_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrdersService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdersService/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/command/rest/OrderCreateRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/command/rest/OrderCreateRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/command/rest/OrdersCommandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/command/rest/OrdersCommandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/core/data/OrderEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/core/data/OrderEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/saga/OrderSaga.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/saga/OrderSaga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/CreateProductCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/CreateProductCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/ProductAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/ProductAggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/interceptors/CreateProductCommandInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/interceptors/CreateProductCommandInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/CreateProductRestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/CreateProductRestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/EventsReplayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/EventsReplayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/ProductsCommandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/ProductsCommandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductLookupEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductLookupEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ErrorMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ProductsServiceErrorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ProductsServiceErrorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/events/ProductCreatedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/events/ProductCreatedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/ProductsQueryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/ProductsQueryHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/rest/ProductRestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/rest/ProductRestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/rest/ProductsQueryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/rest/ProductsQueryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsersService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/UsersService/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZcBXgjgS0O0kE6mrlREXGzuj6V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.estore.apigateway.ApiGatewayApplication" />
+      <module name="ApiGateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.estore.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.estore.discoveryserver.DiscoveryServerApplication" />
+      <module name="DiscoveryServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.estore.discoveryserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.estore.ProductsService.ProductsServiceApplication" />
+      <module name="ProductsService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.estore.ProductsService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.ProductsServiceApplication" />
+        <item itemvalue="Application.DiscoveryServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d53a24f-8ba9-45c9-a476-aa3a1eb6cae5" name="Changes" comment="" />
+      <created>1702711529456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702711529456</updated>
+    </task>
+    <servers />
+  </component>
+</project>

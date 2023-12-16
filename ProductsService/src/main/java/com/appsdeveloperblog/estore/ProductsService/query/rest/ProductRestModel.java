@@ -1,8 +1,7 @@
 package com.appsdeveloperblog.estore.ProductsService.query.rest;
 
-import lombok.Data;
-
 import java.math.BigDecimal;
+import lombok.Data;
 
 @Data
 public class ProductRestModel {

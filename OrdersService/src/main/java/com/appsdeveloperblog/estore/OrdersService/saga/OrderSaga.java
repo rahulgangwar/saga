@@ -15,6 +15,9 @@ import com.appsdeveloperblog.estore.core.events.ProductReservationCancelledEvent
 import com.appsdeveloperblog.estore.core.events.ProductReservedEvent;
 import com.appsdeveloperblog.estore.core.model.User;
 import com.appsdeveloperblog.estore.core.query.FetchUserPaymentDetailsQuery;
+import java.time.Duration;
+import java.time.temporal.ChronoUnit;
+import java.util.UUID;
 import org.axonframework.commandhandling.CommandCallback;
 import org.axonframework.commandhandling.CommandMessage;
 import org.axonframework.commandhandling.CommandResultMessage;
@@ -31,10 +34,6 @@ import org.axonframework.spring.stereotype.Saga;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-
-import java.time.Duration;
-import java.time.temporal.ChronoUnit;
-import java.util.UUID;
 
 @Saga
 public class OrderSaga {

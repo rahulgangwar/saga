@@ -1,8 +1,7 @@
 package com.appsdeveloperblog.estore.ProductsService.core.events;
 
-import lombok.Data;
-
 import java.math.BigDecimal;
+import lombok.Data;
 
 @Data
 public class ProductCreatedEvent {

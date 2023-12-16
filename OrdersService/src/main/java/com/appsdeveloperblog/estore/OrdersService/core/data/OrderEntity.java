@@ -6,10 +6,9 @@
 package com.appsdeveloperblog.estore.OrdersService.core.data;
 
 import com.appsdeveloperblog.estore.OrdersService.core.model.OrderStatus;
-import lombok.Data;
-
-import javax.persistence.*;
 import java.io.Serializable;
+import javax.persistence.*;
+import lombok.Data;
 
 @Data
 @Entity
