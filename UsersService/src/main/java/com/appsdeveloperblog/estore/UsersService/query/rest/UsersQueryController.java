@@ -5,8 +5,8 @@
  */
 package com.appsdeveloperblog.estore.UsersService.query.rest;
 
-import com.appsdeveloperblog.estore.core.model.User;
-import com.appsdeveloperblog.estore.core.query.FetchUserPaymentDetailsQuery;
+import com.core.model.User;
+import com.core.query.FetchUserPaymentDetailsQuery;
 import org.axonframework.messaging.responsetypes.ResponseTypes;
 import org.axonframework.queryhandling.QueryGateway;
 import org.springframework.beans.factory.annotation.Autowired;

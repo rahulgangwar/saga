@@ -5,66 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d53a24f-8ba9-45c9-a476-aa3a1eb6cae5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_6_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_59_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_59_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_59_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_59_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_59_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_core_1_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_http_1_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_test_3_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_server_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrdersService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdersService/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/command/rest/OrderCreateRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/command/rest/OrderCreateRest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/command/rest/OrdersCommandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/command/rest/OrdersCommandController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/core/data/OrderEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/core/data/OrderEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/saga/OrderSaga.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdersService/src/main/java/com/appsdeveloperblog/estore/OrdersService/saga/OrderSaga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/CreateProductCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/CreateProductCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/ProductAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/ProductAggregate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/interceptors/CreateProductCommandInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/interceptors/CreateProductCommandInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/CreateProductRestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/CreateProductRestModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/EventsReplayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/EventsReplayController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/ProductsCommandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/ProductsCommandController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductLookupEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductLookupEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ErrorMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ProductsServiceErrorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ProductsServiceErrorHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/events/ProductCreatedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/events/ProductCreatedEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/ProductsQueryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/ProductsQueryHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/rest/ProductRestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/rest/ProductRestModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/rest/ProductsQueryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/rest/ProductsQueryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UsersService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/UsersService/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/ProductsServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/ProductsServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/CreateProductCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/command/CreateProductCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/ProductAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/command/ProductAggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/ProductLookupEventsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/command/ProductLookupEventsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/interceptors/CreateProductCommandInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/command/CreateProductCommandInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/CreateProductRestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/command/CreateProductRestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/EventsReplayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/command/EventsReplayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/command/rest/ProductsCommandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/command/ProductsCommandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/core/data/ProductEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductLookupEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/core/data/ProductLookupEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductLookupRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/core/data/ProductLookupRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/data/ProductsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/core/data/ProductsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/core/errorhandling/ErrorMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ProductsServiceErrorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/core/errorhandling/ProductsServiceErrorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/errorhandling/ProductsServiceEventsErrorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/core/errorhandling/ProductsServiceEventsErrorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/core/events/ProductCreatedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/core/events/ProductCreatedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/FindProductsQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/query/FindProductsQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/ProductEventsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/query/ProductEventsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/ProductsQueryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/query/ProductsQueryHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/rest/ProductRestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/query/ProductRestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/main/java/com/appsdeveloperblog/estore/ProductsService/query/rest/ProductsQueryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/main/java/com/product/query/ProductsQueryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsService/src/test/java/com/appsdeveloperblog/estore/ProductsService/ProductsServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsService/src/test/java/com/product/ProductsServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsersService/src/main/java/com/appsdeveloperblog/estore/UsersService/query/UserEventsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/UsersService/src/main/java/com/appsdeveloperblog/estore/UsersService/query/UserEventsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsersService/src/main/java/com/appsdeveloperblog/estore/UsersService/query/rest/UsersQueryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UsersService/src/main/java/com/appsdeveloperblog/estore/UsersService/query/rest/UsersQueryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/appsdeveloperblog/estore/core/commands/CancelProductReservationCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/core/commands/CancelProductReservationCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/appsdeveloperblog/estore/core/commands/ProcessPaymentCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/core/commands/ProcessPaymentCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/appsdeveloperblog/estore/core/commands/ReserveProductCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/core/commands/ReserveProductCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/appsdeveloperblog/estore/core/events/PaymentProcessedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/core/events/PaymentProcessedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/appsdeveloperblog/estore/core/events/ProductReservationCancelledEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/core/events/ProductReservationCancelledEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/appsdeveloperblog/estore/core/events/ProductReservedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/core/events/ProductReservedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/appsdeveloperblog/estore/core/model/PaymentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/core/model/PaymentDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/appsdeveloperblog/estore/core/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/core/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/appsdeveloperblog/estore/core/query/FetchUserPaymentDetailsQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/core/query/FetchUserPaymentDetailsQuery.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,14 +51,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
@@ -113,7 +102,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ApiGatewayApplication">
+  <component name="RunManager" selected="Maven.ProductsService [spring-boot:run...]">
     <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.estore.apigateway.ApiGatewayApplication" />
       <module name="ApiGateway" />
@@ -149,15 +138,31 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ApiGatewayApplication" />
+      <item itemvalue="Application.DiscoveryServerApplication" />
+      <item itemvalue="Application.ProductsServiceApplication" />
+      <item itemvalue="Maven.ProductsService [spring-boot:run...]" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiscoveryServerApplication" />
         <item itemvalue="Application.ApiGatewayApplication" />
         <item itemvalue="Application.ProductsServiceApplication" />
-        <item itemvalue="Application.DiscoveryServerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -171,5 +176,37 @@
       <updated>1702711529456</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProductsService/src/main/java/com/product/command/ProductsCommandController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProductsService/src/main/java/com/product/query/ProductsQueryHandler.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProductsService/src/main/java/com/product/query/ProductsQueryController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

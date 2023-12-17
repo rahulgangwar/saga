@@ -5,9 +5,9 @@
  */
 package com.appsdeveloperblog.estore.UsersService.query;
 
-import com.appsdeveloperblog.estore.core.model.PaymentDetails;
-import com.appsdeveloperblog.estore.core.model.User;
-import com.appsdeveloperblog.estore.core.query.FetchUserPaymentDetailsQuery;
+import com.core.model.PaymentDetails;
+import com.core.model.User;
+import com.core.query.FetchUserPaymentDetailsQuery;
 import org.axonframework.queryhandling.QueryHandler;
 import org.springframework.stereotype.Component;
 
