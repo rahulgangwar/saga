@@ -22,17 +22,14 @@ public class ProductsQueryHandler {
 
   @QueryHandler
   public List<ProductRestModel> findProducts(FindProductsQuery query) {
-    log.info("ProductsQueryHandler.findProducts : " + query);
-    List<ProductRestModel> productsRest = new ArrayList<>();
-
+    log.info("QUERY HANDLER: " + query);
     List<ProductEntity> storedProducts = productsRepository.findAll();
-
+    List<ProductRestModel> productsRest = new ArrayList<>();
     for (ProductEntity productEntity : storedProducts) {
       ProductRestModel productRestModel = new ProductRestModel();
       BeanUtils.copyProperties(productEntity, productRestModel);
       productsRest.add(productRestModel);
     }
-
     return productsRest;
   }
 }

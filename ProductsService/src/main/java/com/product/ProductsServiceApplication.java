@@ -32,9 +32,6 @@ public class ProductsServiceApplication {
   public void configure(EventProcessingConfigurer config) {
     config.registerListenerInvocationErrorHandler(
         "product-group", conf -> new ProductsServiceEventsErrorHandler());
-
-    //		config.registerListenerInvocationErrorHandler("product-group",
-    //				conf -> PropagatingErrorHandler.instance());
   }
 
   @Bean(name = "productSnapshotTriggerDefinition")

@@ -4,18 +4,19 @@ import com.product.core.data.ProductLookupEntity;
 import com.product.core.data.ProductLookupRepository;
 import java.util.List;
 import java.util.function.BiFunction;
+
+import lombok.extern.log4j.Log4j2;
 import org.axonframework.commandhandling.CommandMessage;
 import org.axonframework.messaging.MessageDispatchInterceptor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
+@Log4j2
 @Component
 public class CreateProductCommandInterceptor
     implements MessageDispatchInterceptor<CommandMessage<?>> {
 
-  private static final Logger LOGGER =
-      LoggerFactory.getLogger(CreateProductCommandInterceptor.class);
   private final ProductLookupRepository productLookupRepository;
 
   public CreateProductCommandInterceptor(ProductLookupRepository productLookupRepository) {
@@ -27,7 +28,7 @@ public class CreateProductCommandInterceptor
       List<? extends CommandMessage<?>> messages) {
 
     return (index, command) -> {
-      LOGGER.info("Intercepted command: " + command.getPayloadType());
+      log.info("INTERCEPTOR: " + command.getPayloadType());
 
       if (CreateProductCommand.class.equals(command.getPayloadType())) {
 

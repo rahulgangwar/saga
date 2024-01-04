@@ -30,13 +30,13 @@ public class EventsReplayController {
 
       return ResponseEntity.ok()
           .body(
-              String.format("The event processor with a name [%s] has been reset", processorName));
+              String.format("The EVENT HANDLER with a name [%s] has been reset", processorName));
     } else {
       return ResponseEntity.badRequest()
           .body(
               String.format(
-                  "The event processor with a name [%s] is not a tracking event processor."
-                      + " Only Tracking event processor is supported",
+                  "The EVENT HANDLER with a name [%s] is not a tracking EVENT HANDLER."
+                      + " Only Tracking EVENT HANDLER is supported",
                   processorName));
     }
   }
